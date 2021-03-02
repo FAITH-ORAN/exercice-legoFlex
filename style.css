@@ -1,14 +1,13 @@
 .container{
   display: flex;
   flex-direction: column-reverse;
- 
   align-items: center;
-
   width: 70%;
   height: 650px;
   background-color: yellow;
   margin: auto;
-  border-radius: 15% 15%;;
+  border-radius: 15% 15%;
+
 }
 .rowMouth{
 
